@@ -169,6 +169,10 @@ padding-top: 94px;
 
 }
 
-<script type="text/javascript">
 
-</script>
+.projects-link:hover .actions {
+ 
+   transform: translateY(0);
+   opacity: 1;
+  
+}
