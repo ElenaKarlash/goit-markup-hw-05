@@ -16,7 +16,7 @@ box-sizing: inherit;
     --black-text: rgba(33, 33, 33, 1);
     --gray-text-phone: rgba(117, 117, 117, 1);
     --background-gray: rgba(47, 48, 58, 1);
-    --background-section-four: rgba(245, 244, 250, 1);
+    --background-section-four: rgba(239, 239, 239);
     --footer-adress: rgba(255, 255, 255, 0.6);
     --mouse: rgba(0, 0, 0, 1);
     --gray-border: rgba( 175,177,184,1);
@@ -429,7 +429,7 @@ button {
 
     content: "";
     position: absolute;
-    bottom: -1;
+    bottom: -1px;
     left: 0;
     width: 100%;
     height: 4px;
