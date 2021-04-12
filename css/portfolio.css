@@ -48,9 +48,10 @@ padding-top: 94px;
     cursor: pointer;
     padding: 6px, 22px;
     border: 1px solid var(--white-text);*/
+    border-radius: 4px;
     color: var(--black-text);
    background-color: var(--background-section-four);
-
+   
 }
 
 .btn {
@@ -68,7 +69,7 @@ padding-top: 94px;
 }
 
 .buttons-list-item button {
-
+  
 }
 
 
